@@ -1,0 +1,123 @@
+.fira-sans-normal {
+    font-family: "Fira Sans", serif;
+    font-style: normal;
+  }
+
+  *{
+    margin: 1px;
+    padding: 0px;
+  }
+  /* shared style  */
+  .btn-shared{
+    font-size: 16px;
+    font-weight:600;
+     color: #FFFFFF;
+     text-decoration: none;
+  }
+  .secondary-bg{
+    background-color: #C6E4D6;
+    margin: 120px 160px 80px 160px;
+    border-radius: 24px;
+    color: #FFFFFF;
+  }
+  .btn-primary{
+    background-color: #006A50;
+    font-weight: bold;
+    padding: 17px 34px;
+    border-radius: 5px;
+    border: none;
+    border-radius: 8px;
+}
+  /*Banner style  */
+  .banner{
+    padding: 117px 64px 117px 60px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 35px  0 59px;
+  }
+ .banner-content{
+    max-width: 622px;
+    
+ }
+  .banner-greetings{
+    font-size: 24px;
+    color:rgba(14, 14, 14, 0.5) ;
+  }
+  .banner-title{
+    margin-top: 16px;
+    margin-bottom: 24px;
+    font-size: 56px;
+    font-weight: bold;
+    color: #0E0E0E;
+  }
+  .button-font{
+    font-size: 18px;
+    font-weight: 600;
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+  .banner-profile{
+    width: 474px;
+    height: 400px;
+  }
+  /* middle style */
+  .middle{
+    margin: 120px 160px 80px 160px;
+  }
+.section-title{
+    margin-bottom: 24px;
+   font-size: 40px;
+   font-weight: bold;
+}
+.middle-title{
+    margin-top: 24px;
+    margin-bottom: 12px;
+}
+.middle-description{
+    
+    font-size: 16px;
+    color: #0E0E0E;
+}
+.middle-container{
+    display: flex;
+    gap: 24px;
+}
+.middles{
+    line-height: 1.8;
+    padding: 32px;
+    border-radius: 16px;
+    box-shadow: 0px 6px 50px 0px rgb(0,0,0,0.06);
+}
+.first-box-bg{
+    background-color: rgba(84, 144, 245, 0.2);
+}
+.middle-btn-one{
+    background-color: #5490F5 ;
+     padding: 11px 20px;
+     border-radius: 8px;
+     border: none;
+     margin-top: 24px;
+    margin-bottom: 32px;
+}
+.second-box-bg{
+  background-color: rgba(198, 228, 214, 1);
+}
+.middle-btn-two{
+    background-color: #09A15C;
+    padding: 11px 20px;
+     border-radius: 8px;
+     border: none;
+     margin-top: 24px;
+    margin-bottom: 32px;
+}
+.third-box-bg{
+    background-color: rgba(247, 235, 207, 1);
+}
+.middle-btn-three{
+    background-color: #FFC239;
+    padding: 11px 20px;
+    border-radius: 8px;
+    border: none;
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
